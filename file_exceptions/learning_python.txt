@@ -1,0 +1,3 @@
+In Python you can run a for loop 
+In Python you can run if loop with testing different conditions
+In Python you can run a while loop
